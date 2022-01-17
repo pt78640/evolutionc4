@@ -1,0 +1,24 @@
+{
+  "jobs": [
+    {
+      "id": 0
+    },
+    {
+      "company": "HCL",
+      "title": "Developer",
+      "salary": "20",
+      "location": "Begnaluru",
+      "type": "Good",
+      "id": 1
+    },
+    {
+      "company": "Genpack",
+      "title": "Developer",
+      "salary": "50",
+      "location": "delhi",
+      "type": "wfh",
+      "id": 2
+    }
+   
+  ]
+}
